@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="74.641" height="181.563" viewBox="0 0 55.9809 136.172" color-interpolation-filters="sRGB" class="st3">
+  <v:documentProperties v:langID="4105" v:metric="true" v:viewMarkup="false"/>
+  <style>
+    .st1{fill:#7ba79d;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:5}.st2{fill:#fff}.st3{fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+  </style>
+  <g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+    <title>
+      Page-1
+    </title>
+    <v:pageProperties v:drawingScale=".039" v:pageScale=".039" v:drawingUnits="24" v:shadowOffsetX="8.504" v:shadowOffsetY="-8.504"/>
+    <g id="group676-1" transform="translate(2.5 -80.004)" v:mID="676" v:groupContext="group">
+      <v:custProps>
+        <v:cp v:nameU="Text" v:lbl="Text" v:type="4" v:format="&lt;no master&gt;;" v:invis="false" v:langID="1033" v:val="VT4()"/>
+        <v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:langID="1033" v:val="VT4(Annotation)"/>
+        <v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:langID="1033" v:val="VT4(Points Of Interest)"/>
+        <v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:langID="1033" v:val="VT4(Coffee shop)"/>
+        <v:cp v:nameU="Text" v:type="0" v:format="Cafe;" v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT0(0):26"/>
+      </v:custProps>
+      <v:userDefs>
+        <v:ud v:nameU="SolSH" v:val="VT15({5D50005D-537C-4738-9C46-130C74335A6D}):41"/>
+        <v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+        <v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+        <v:ud v:nameU="ShowBorder" v:val="VT0(1):5"/>
+        <v:ud v:nameU="visLegendSymbolID" v:val="VT15({051549B3-0022-0000-8E40-00608CF305B2}):41"/>
+        <v:ud v:nameU="ShapeClass" v:prompt="Annotation" v:val="VT0(1):26"/>
+        <v:ud v:nameU="ShapeType" v:prompt="Points Of Interest" v:val="VT0(53):26"/>
+        <v:ud v:nameU="SubShapeType" v:prompt="Coffee shop" v:val="VT0(170):26"/>
+        <v:ud v:nameU="LastText" v:val="VT4()"/>
+        <v:ud v:nameU="TextSync"/>
+        <v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+        <v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+      </v:userDefs>
+      <title>
+        Cafe.66
+      </title>
+      <g id="shape677-2" v:mID="677" v:groupContext="shape">
+        <title>
+          Sheet.677
+        </title>
+        <rect y="82.504" width="50.981" height="53.668" rx="8.504" ry="8.504" class="st1"/>
+      </g>
+      <g id="shape678-4" v:mID="678" v:groupContext="shape" transform="translate(5.825 -10.125)">
+        <title>
+          Sheet.678
+        </title>
+        <v:userDefs>
+          <v:ud v:nameU="Shadow" v:val="VT0(0):5"/>
+        </v:userDefs>
+        <path d="M30.94 114.29a4.29 4.517 0 1 1 0 8.94v-8.94zm.08-2.73H8.58v15.98a3.282 3.455-180 0 0 3.2 3.37h16.28a2.754 2.9-180 0 0 2.96-3.12v-1.86a6.845 7.206-180 1 0 0-14.37zM4.73 136.17h30.38a4.188 4.408-180 0 0 3.85-3.89H0a4.496 4.733-180 0 0 4.73 3.89z" class="st2"/>
+      </g>
+      <g id="shape676-7" v:mID="676" v:groupContext="groupContent">
+        <v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.52"/>
+        <v:textRect cx="25.49" cy="176.174" width="23.04" height="80.004"/>
+      </g>
+    </g>
+  </g>
+</svg>
