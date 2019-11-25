@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 350">
-  <rect x="0" y="0" width="750" height="350" fill="rgb(253,218,145)"/>
-  <path d=" M 0 0 L 0 39.613 L 412 40 L 372.623 0 L 0 0 Z " fill="rgb(244,180,16)"/>
-  <path d=" M 372 0 L 411.398 40 L 750 39.487 L 750 0 L 372 0 Z " fill="rgb(252,193,71)"/>
-  <path d=" M 411.406 40.018 L 100.818 350 L 0 350 L 0 39.703 L 411.406 40.018 Z " fill="rgb(252,195,77)"/>
-  <path d=" M 411.393 40 L 100.956 350 L 721.956 350 L 411.393 40 Z " fill="rgb(253,208,115)"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 750 310" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><rect x="0" y="0.977" width="750" height="310.023" style="fill:#fdda91;"/><path d="M411.406,1.018l-310.588,309.982l-100.818,0l0,-310.297l411.406,0.315Z" style="fill:#fcc34d;fill-rule:nonzero;"/><path d="M411.393,1l-310.437,310l621,0l-310.563,-310Z" style="fill:#fdd073;fill-rule:nonzero;"/></svg>
